@@ -17,7 +17,3 @@ ChatGPT Organizer ("the Extension") respects your privacy. This Privacy Policy e
 
 ## Data Sharing
 - No data is sold, shared, or transmitted to third parties.
-
-
-## Contact
-If you have any questions or concerns about this Privacy Policy, please contact me at: **sebastiansarco20@gmail.com** 
